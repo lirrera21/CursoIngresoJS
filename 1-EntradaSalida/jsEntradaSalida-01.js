@@ -11,7 +11,6 @@ function mostrar()
 	var boolean;
 
 	alert(mensajeBienvenida); //muestro la variable sin nada guardado
-	//se asigna lo que esta del lado derecho es el valor de lo que le asigno lo que esta a la izquierda
 	mensajeBienvenida = "Bienvenido al curso de ingreso";  // texto string
 	numero = 2; // entero
 	boolean = true; //boolean 
