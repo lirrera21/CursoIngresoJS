@@ -6,10 +6,13 @@ a su opción  y le informaremos si ganó, empató o perdió.
 */
 var eleccionMaquina;
 
+////body/div[2]/div[2]/form[1]/img[1]
+//onclick
+/// definir un numero ramdon, y luego avisar quien gano y quien perdio
 function comenzar()
 {
 	
-
+//jsPiedarPapelTijera
 
 }//FIN DE LA FUNCIÓN
 function piedra()
